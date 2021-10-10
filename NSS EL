@@ -8,16 +8,16 @@
     "23": {
       "title": "Chapter 23",
       "groups": {
-        "No Sleep Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/IzphKqM/"
       },
       "last_updated": "1616368746"
     },
     "24": {
       "title": "Chapter 24",
       "groups": {
-        "No Sleep Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/WHF9qQj/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
