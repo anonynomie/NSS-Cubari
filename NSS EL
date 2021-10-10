@@ -12,5 +12,12 @@
       },
       "last_updated": "1616368746"
     },
+    "24": {
+      "title": "Chapter 24",
+      "groups": {
+        "No Sleep Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
