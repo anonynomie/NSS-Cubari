@@ -1,77 +1,77 @@
 {
-  "title": "<Curator>",
-  "description": "<One who rises with money, will fall with money! In the near future, new powerful devices called relics were found. Their powers were out of this world… and so earth was destroyed. But even in this devastated state, there were three things that survived; cockroaches, scammers, and government officials! The second son of an elite family, Hong You Tae, is smart and intelligent with great social skills. He's also a candidate worthy of joining the relic management department!>",
-  "artist": "<Kim Dong woo>",
-  "author": "<Song Jun hyeok>",
-  "cover": "<https://uploads.mangadex.org//covers/f41d5581-b072-47aa-a6ee-ca0a62edadff/3ed8567f-22bb-4b31-971c-cc8c4e045c75.jpg>",
+  "title": "Curator",
+  "description": "One who rises with money, will fall with money! In the near future, new powerful devices called relics were found. Their powers were out of this world… and so earth was destroyed. But even in this devastated state, there were three things that survived; cockroaches, scammers, and government officials! The second son of an elite family, Hong You Tae, is smart and intelligent with great social skills. He's also a candidate worthy of joining the relic management department!",
+  "artist": "Kim Dong woo",
+  "author": "Song Jun hyeok",
+  "cover": "https://uploads.mangadex.org//covers/f41d5581-b072-47aa-a6ee-ca0a62edadff/3ed8567f-22bb-4b31-971c-cc8c4e045c75.jpg",
   "chapters": {
-    "<3>": {
-      "title": "<Ch 3>",
+    "3": {
+      "title": "Chapter 3",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<QGW8MPA>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/QGW8MPA/"
       },
       "last_updated": "1616368746"
     },
-    "<4>": {
-      "title": "<Chapter 4>",
+    "4": {
+      "title": "Chapter 4",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<jKNdbN4>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/jKNdbN4/"
       },
       "last_updated": "1616368746"
     },
-        "<5>": {
-      "title": "<Chapter 5>",
+    "5": {
+      "title": "Chapter 5",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<yC1ugkk>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/yC1ugkk/"
       },
       "last_updated": "1616368746"
     },
-        "<6>": {
-      "title": "<Chapter 6>",
+    "6": {
+      "title": "Chapter 6",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<yUuHyJy>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/yUuHyJy/"
       },
       "last_updated": "1616368746"
     },
-        "<7>": {
-      "title": "<Chapter 7>",
+    "7": {
+      "title": "Chapter 7",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<WF0Hssu>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/WF0Hssu/"
       },
       "last_updated": "1616368746"
     },
-        "<8>": {
-      "title": "<Chapter 8>",
+    "8": {
+      "title": "Chapter 8",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<bjKUzcM>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/bjKUzcM/"
       },
       "last_updated": "1616368746"
     },
-        "<9>": {
-      "title": "<Chapter 9>",
+    "9": {
+      "title": "Chapter 9",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<baLDDUm>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/baLDDUm/"
       },
       "last_updated": "1616368746"
     },
-        "<10>": {
-      "title": "<Chapter 10>",
+    "10": {
+      "title": "Chapter 10",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<2FevOy0>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/2FevOy0/"
       },
       "last_updated": "1616368746"
     },
-        "<11>": {
-      "title": "<Chapter 11>",
+    "11": {
+      "title": "Chapter 11",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<iJGo4l4>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/iJGo4l4/"
       },
       "last_updated": "1616368746"
     },
-            "<12>": {
-      "title": "<Chapter 12>",
+    "12": {
+      "title": "Chapter 12",
       "groups": {
-        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<rzm87DU>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/rzm87DU/"
       },
       "last_updated": "1616368746"
     }
