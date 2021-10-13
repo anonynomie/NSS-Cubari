@@ -1,25 +1,23 @@
 {
   "title": "The Haze Inside and Out",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "description": "'Choi Hwan' is a promising young pianist both at home and abroad. However, in reality, he is just a 15-year-old boy confused by the identity his mother created for him.\nOne day before a competition, Choi Hwan's improvisation, as if pouring out his frustration in the school's music room, shakes the heart and mind of his classmate, Hwang Ina, who coincidentally passes by in hallway.\nIna, who has a special talent for art, wants to formally study art but is struggling with her family's difficult circumstances and her own heart that she herself can't even figure out.\nIna paints the emotions of that day, Choi Hwan sees it, and the two become intertwined through fate.\nThe story of 15-year-old children who communicate, struggle, and grow through 'music' and 'art'.",
+  "artist": "Hae Cho",
+  "author": "Hui Bong",
+  "cover": "https://cdn.discordapp.com/attachments/892130227105456138/897930980365570098/thiaocover.jpg",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "0": {
+      "title": "Prologue",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/knrK7H3/"
       },
       "last_updated": "1616368746"
     },
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "Escape",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "No Sleep Scans": "/proxy/api/imgur/chapter/jTy0XpX/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
