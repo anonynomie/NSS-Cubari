@@ -20,6 +20,22 @@
         "No Sleep Scans": "/proxy/api/imgur/chapter/mAZo3jO/"
       },
       "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "No Sleep Scans": "/proxy/api/imgur/chapter/yolEa3H/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "No Sleep Scans": "/proxy/api/imgur/chapter/Uy8lCnn/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
